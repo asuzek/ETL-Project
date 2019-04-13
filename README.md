@@ -1,3 +1,5 @@
+# Google Stock Value vs. Employee Review
+We are getting the historical data for the employee review and the stock value for 10 years. After cleaning up and joining the data by date, we will push it to SQL database.
 # Data Sources
 ## Google Employee Review from Kaggle
 The customer review data for the companies is taken from the Kaggle source, including Google, Apple, Microsoft and so on, whereas we will only use Google data after clean up.
